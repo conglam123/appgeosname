@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/drawable/loading.xml" value="0.1935" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/activity_country.xml" value="0.18541666666666667" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/activity_web_view.xml" value="0.18541666666666667" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/country_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/recycler_item.xml" value="1.2611464968152866" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/layout/search.xml" value="0.358695652173913" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/menu/menu.xml" value="0.3625" />
+        <entry key="..\:/Code/Android/GeoNames/app/src/main/res/menu/menu_main.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
